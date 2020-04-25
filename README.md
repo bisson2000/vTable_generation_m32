@@ -5,10 +5,10 @@ vTable information available in .class file
 list of commands:
 
 make:
- builds executable
+ builds executable and vTable file (.class extension)
 
-make vTable
+make vTable:
  builds .class file to visualize the vTable of all classes
 
-make clean
+make clean:
  cleans repository

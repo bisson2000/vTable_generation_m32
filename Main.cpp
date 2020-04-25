@@ -17,7 +17,7 @@ int i;
 
 };
 
-class Derived{
+class Derived : public Base{
 
 public:
 
@@ -25,7 +25,7 @@ public:
 
     virtual void f1();
     virtual void f2();
-    virtual void f3();
+    void f3();
     //virtual f4();
     //virtual f5();
     virtual void f6();
