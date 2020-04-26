@@ -1,5 +1,5 @@
 # vTable_generation_m32
-Basic code with makefile for the purpose of crating a file with vTable and class information
+Basic code with makefile for the purpose of creating a file with vTable and class information
 vTable information available in .class file
 
 list of commands:
